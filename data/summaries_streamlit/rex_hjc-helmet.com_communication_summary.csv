@@ -1,0 +1,573 @@
+﻿idx,date,sender,receiver,subject,summary
+1,2017-08-04 00:49:39.417179+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Pingo씨 지원 샘플,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+2,2017-08-07 21:28:48.673588+09:00,ausstellerservice@newsletter.eurobike-show.de,rex@hjc-helmet.com,EUROBIKE 2017: LeadSuccess ? Exhibitor Service,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+3,2017-08-23 14:05:57.782401+09:00,chulrolee@hjc-helmet.com,rex@hjc-helmet.com,RE: 제품 사양,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+4,2017-09-05 10:10:18.723727+09:00,mingi@hjc-helmet.com,rex@hjc-helmet.com,RE: 9월 5일 NPD 자료_스포츠사업부,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+5,2017-09-05 10:56:31.139724+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,Fwd: 9월 5일 NPD 자료_스포츠사업부,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+6,2017-09-07 21:50:06.354363+09:00,acodi@topfun.com,rex@hjc-helmet.com,Ibex,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+7,2017-09-14 20:32:29.957380+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+8,2017-09-20 20:43:05.882851+09:00,Sekretariat@organissimo.de,rex@hjc-helmet.com,Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+9,2017-09-24 06:21:46.814310+09:00,nis@sienknecht.net,rex@hjc-helmet.com,AW: pot. Consultant TT helmets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+10,2017-09-27 13:10:25.973260+09:00,stevef@hksm.com.mo,sjkim@hjc-helmet.com,"Re: Fwd: HJC STATEMENT(AUG,2017) FROM HKSM 8/9/2017-- (Please pay all overdue invoices as soon as possible , thank you.)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+11,2017-10-12 10:12:15.393150+09:00,george@hjchelmets.com,ckm0725@hjc-helmet.com,Draft,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+12,2017-10-13 17:21:07.238944+09:00,rex@hjc-helmet.com,lxx@sybike.com.cn,Re: HJC helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+13,2017-10-13 19:56:32.404436+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+14,2017-10-14 03:12:47.561906+09:00,george@hjchelmets.com,rex@hjc-helmet.com,RE: Draft,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+15,2017-10-14 04:59:40.268404+09:00,rex@hjc-helmet.com,george@hjchelmets.com,Re: Draft,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+16,2017-10-14 05:49:55.111493+09:00,george@hjchelmets.com,rex@hjc-helmet.com,Re: Draft,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+17,2017-10-16 10:15:29.693613+09:00,jioscom@hjc-helmet.com,TSKA28075@hjc-helmet.com,2017년 9월 월간회의 시작 시간 변경안내,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+18,2017-10-16 14:56:04.341477+09:00,patrick@splashdesign.com,rex@hjc-helmet.com,Last e-mails,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+19,2017-10-16 15:46:49.840792+09:00,rex@hjc-helmet.com,Jochim.Aerts@cyclingfactory.be,Re: Revision following discussion,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+20,2017-10-16 16:08:22.942514+09:00,rex@hjc-helmet.com,patrick@splashdesign.com,Re: Pricing,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+21,2017-10-16 16:54:56.344246+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: 2018 one of the best TT riders will wear HJC! Important issue! Big responsibility! Great chance!,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+22,2017-10-16 17:04:22.516892+09:00,rex@hjc-helmet.com,Jochim.Aerts@cyclingfactory.be,Re: Revision following discussion,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+23,2017-10-16 17:04:29.959690+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 전자항공권 발행확인서/e-Ticket Itinerary & Receipt 입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+24,2017-10-16 17:07:35.514611+09:00,rex@hjc-helmet.com,1redflower@hjc-helmet.com,Re: YOO/YOUNGBAEMR님의 전자항공권 발행확인서/e-Ticket Itinerary & Receipt 입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+25,2017-10-16 17:13:09.695478+09:00,patrick@splashdesign.com,rex@hjc-helmet.com,RE: Pricing,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+26,2017-10-16 18:13:52.293676+09:00,rex@hjc-helmet.com,sjhong@hjc-helmet.com,팀 스폰 관련 사항,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+27,2017-10-16 19:42:16.930853+09:00,rex@hjc-helmet.com,tim@ad-lips.com,Re: 2 new invoices,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+28,2017-10-16 19:45:39.888971+09:00,admin@hjc-helmet.com,rex@hjc-helmet.com,[Delivery Failure] 메일 재전송 실패,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+29,2017-10-16 20:27:20.058974+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,Confirming Wednesday,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+30,2017-10-16 20:58:47.541970+09:00,rex@hjc-helmet.com,tim@ad-lips.com,Fwd: 2 new invoices,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+31,2017-10-16 21:04:14.125033+09:00,rex@hjc-helmet.com,shkim@hjc-helmet.com,importing dury 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+32,2017-10-16 21:11:12.329261+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+33,2017-10-16 22:37:33.574002+09:00,rex@hjc-helmet.com,SteveDavey@extrauk.co.uk,Re: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+34,2017-10-17 03:16:59.972638+09:00,rex@hjc-helmet.com,1redflower@hjc-helmet.com,항공권 발행 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+35,2017-10-17 08:29:23.671510+09:00,rex@hjc-helmet.com,Jin@hjc-helmet.com,금일 유럽법인 미팅,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+36,2017-10-17 08:57:45.048915+09:00,sjhong@hjc-helmet.com,rex@hjc-helmet.com,RE: 팀 스폰 관련 사항,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+37,2017-10-17 09:01:09.982112+09:00,rex@hjc-helmet.com,sjhong@hjc-helmet.com,Re: 팀 스폰 관련 사항,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+38,2017-10-17 09:11:53.995372+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 항공 예약 정보입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+39,2017-10-17 09:48:54.976707+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 전자항공권 발행확인서/e-Ticket Itinerary & Receipt 입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+40,2017-10-17 16:24:04.042532+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:HJC helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+41,2017-10-17 18:16:07.418962+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+42,2017-10-17 19:19:03.560002+09:00,robbie@protouchglobal.com,rex@hjc-helmet.com,Robbie Hunter,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+43,2017-10-17 22:20:54.936439+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,Price list-product information (17102017).xlsx,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+44,2017-10-17 22:52:32.397335+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,ORDER FORM,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+45,2017-10-18 00:36:35.857063+09:00,rex@hjc-helmet.com,els@lottosoudal.be,Re: Lotto Soudal > design Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+46,2017-10-18 15:17:32.039238+09:00,rex@hjc-helmet.com,okrock@hjc-helmet.com,Fwd: Lotto Soudal > design Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+47,2017-10-18 15:54:03.096877+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,RE: Lotto Soudal > design Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+48,2017-10-18 19:30:44.354406+09:00,007@slopestyle.com,rex@hjc-helmet.com,RE: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+49,2017-10-18 20:09:31.962507+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+50,2017-10-18 20:44:30.871460+09:00,carles@hjc-europe.com,pingo@ad-lips.com,curriculum,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+51,2017-10-18 23:31:07.542318+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+52,2017-10-19 15:00:44.122284+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:HJC helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+53,2017-10-19 15:11:23.635132+09:00,sandra.janjanin@messe-fn.de,rex@hjc-helmet.com,Document Regarding EUROBIKE 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+54,2017-10-19 22:14:35.996038+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+55,2017-10-20 00:44:34.553472+09:00,rex@hjc-helmet.com,Sofie.Lambeens@cyclingfactory.be,Re: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+56,2017-10-20 01:27:37.244275+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+57,2017-10-20 02:18:49.304653+09:00,rex@hjc-helmet.com,roberto.sambinelli@titici.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+58,2017-10-20 09:12:29.388852+09:00,jioscom@hjc-helmet.com,TSKA28075@hjc-helmet.com,2018년 경영계획 작성 양식배포,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+59,2017-10-20 16:53:10.983042+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:HJC helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+60,2017-10-20 18:01:36.057238+09:00,rex@hjc-helmet.com,lxx@sybike.com.cn,Re: HJC helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+61,2017-10-20 23:11:05.638499+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+62,2017-10-22 13:29:15.915414+09:00,rex@hjc-helmet.com,d.pradhono189@gmail.com,Re: Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+63,2017-10-22 13:38:06.026618+09:00,d.pradhono189@gmail.com,rex@hjc-helmet.com,Re: Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+64,2017-10-22 15:35:30.100870+09:00,rex@hjc-helmet.com,d.pradhono189@gmail.com,Re: Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+65,2017-10-23 14:08:06.878530+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,"RE: 10/20~10/23 출,퇴근 확인 (회신요망)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+66,2017-10-23 15:29:15.260757+09:00,webadm@dhl.com,rex@hjc-helmet.com,DHL ONLINE SHIPPING PREALERT ADVISORY,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+67,2017-10-23 15:30:47.626952+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+68,2017-10-23 15:31:40.364061+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,WAYBILL 43 2378 1055,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+69,2017-10-23 18:53:50.626752+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+70,2017-10-23 19:24:14.877225+09:00,tim@ad-lips.com,Jin@hjc-helmet.com,payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+71,2017-10-23 22:09:03.840268+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,WIGGLE baught BIKE24,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+72,2017-10-24 01:23:21.486555+09:00,rex@hjc-helmet.com,SteveDavey@extrauk.co.uk,Re: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+73,2017-10-24 01:28:09.445573+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,Automatic reply: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+74,2017-10-24 08:20:55.059164+09:00,frederic@hjc-europe.com,rex@hjc-helmet.com,Reponse automatique?: payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+75,2017-10-24 09:26:02.962974+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,2018년 스포츠모 수주 및 판매 계획 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+76,2017-10-24 11:34:37.421540+09:00,1redflower@hjc-helmet.com,bjh@hjc-helmet.com,"10/23~10/24 출,퇴근 확인 (회신요망)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+77,2017-10-24 14:01:35.366750+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,홈페이지 글 업로드,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+78,2017-10-24 14:44:59.665918+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,FW: 스포츠영업팀 9월 카드전표 누락 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+79,2017-10-24 15:57:02.626329+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,969089263,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+80,2017-10-24 17:29:53.966674+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,인스타 스포츠 연간 판매 계획,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+81,2017-10-24 18:31:47.265200+09:00,Sekretariat@organissimo.de,rex@hjc-helmet.com,Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+82,2017-10-24 19:56:13.232830+09:00,rex@hjc-helmet.com,Jochim.Aerts@cyclingfactory.be,Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+83,2017-10-24 20:01:21.225150+09:00,rex@hjc-helmet.com,Jochim.Aerts@cyclingfactory.be,DHL account,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+84,2017-10-24 20:09:17.836713+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,스포츠 영업팀 2017년 예상 출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+85,2017-10-24 20:18:23.711047+09:00,rex@hjc-helmet.com,sjhong@hjc-helmet.com,로또 수달 팀 감사 인사,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+86,2017-10-24 20:48:56.366851+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: helmet for bycicle helmet distributor IT,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+87,2017-10-24 22:04:57.066772+09:00,rex@hjc-helmet.com,carles@hjc-europe.com,Re: TR: helmet for bycicle helmet distributor IT,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+88,2017-10-25 00:37:57.157467+09:00,rex@hjc-helmet.com,SteveDavey@extrauk.co.uk,Re: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+89,2017-10-25 01:00:46.872254+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+90,2017-10-25 11:10:11.108272+09:00,rafael@bikecheckstudio.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+91,2017-10-25 14:56:20.038507+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+92,2017-10-25 16:43:58.917976+09:00,frans.suryadi@bab-indonesia.com,rex@hjc-helmet.com,Re: inquiry distributorship for bicycle helmet in Indonesia,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+93,2017-10-25 16:45:46.073690+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+94,2017-10-25 17:56:15.147299+09:00,rex@hjc-helmet.com,lxx@sybike.com.cn,Re: meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+95,2017-10-25 17:57:09.066956+09:00,rex@hjc-helmet.com,Jochim.Aerts@cyclingfactory.be,Re: DHL account,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+96,2017-10-25 18:50:25.237298+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re: meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+97,2017-10-25 21:36:34.711061+09:00,frederic@hjc-europe.com,Jin@hjc-helmet.com,TR: Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+98,2017-10-25 23:08:13.133489+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: 유로바이크 2017 미납 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+99,2017-10-25 23:09:03.813016+09:00,Jin@hjc-helmet.com,frederic@hjc-europe.com,FW: Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+100,2017-10-25 23:40:44.646546+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+101,2017-10-26 00:57:17.267744+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+102,2017-10-26 06:22:16.066172+09:00,harrisu@hotmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+103,2017-10-26 10:24:17.251996+09:00,rafael@bikecheckstudio.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+104,2017-10-26 10:31:31.711873+09:00,rex@hjc-helmet.com,ORG3100@hjc-helmet.com,보도자료 워딩 체크,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+105,2017-10-26 15:57:31.854254+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+106,2017-10-26 16:11:04.814271+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,회의록 전달드립니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+107,2017-10-26 16:18:40.102482+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,FW: 회의록 전달드립니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+108,2017-10-26 16:18:59.555760+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+109,2017-10-26 16:40:43.047897+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: wording confirmation,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+110,2017-10-26 17:16:42.761782+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,RE: inquiry about registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+111,2017-10-26 17:42:07.810282+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: Final official message (HJC agrees to sponsoring Lotto Soudal team from 2018 Season),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+112,2017-10-26 18:19:13.429303+09:00,007@slopestyle.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+113,2017-10-26 18:19:43.538007+09:00,frederic@hjc-europe.com,rex@hjc-helmet.com,TR: Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+114,2017-10-26 18:23:43.785117+09:00,frederic@hjc-europe.com,rex@hjc-helmet.com,RE: Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+115,2017-10-26 18:33:23.515805+09:00,frederic@hjc-europe.com,rex@hjc-helmet.com,RE: Payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+116,2017-10-26 18:40:07.106948+09:00,cn@vivamo.de,rex@hjc-helmet.com,FW: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+117,2017-10-26 19:34:25.152265+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Design proposal on the Lotto Soudal helmet...,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+118,2017-10-26 20:51:05.321270+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: sample order from Moscow,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+119,2017-10-27 09:08:51.722362+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,FW: 2018년 스포츠모 수주 및 판매 계획 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+120,2017-10-27 15:47:28.989020+09:00,007@slopestyle.com,rex@hjc-helmet.com,RE: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+121,2017-10-27 17:25:56.230300+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re: meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+122,2017-10-27 18:06:07.816760+09:00,rex@hjc-helmet.com,lxx@sybike.com.cn,Re: meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+123,2017-10-27 18:07:51.320899+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re: meeting request,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+124,2017-10-27 21:49:14.849719+09:00,alessandro@mondialbike.com,rex@hjc-helmet.com,AW: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+125,2017-10-28 01:09:55.681840+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+126,2017-10-28 01:27:09.188178+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+127,2017-10-29 22:40:13.456320+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+128,2017-10-30 09:09:07.975646+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,RE: 2018년 스포츠모 수주 및 판매 계획 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+129,2017-10-30 09:29:36.129771+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+130,2017-10-30 12:58:50.886941+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Purchase Order Oct,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+131,2017-10-30 13:10:04.748894+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,HJC Opening ceremony Thailand,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+132,2017-10-30 15:38:39.532977+09:00,patrick@splashdesign.com,rex@hjc-helmet.com,Website,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+133,2017-10-30 18:17:46.392336+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: Purchase Order Oct,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+134,2017-10-30 18:37:01.818551+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: HJC Opening ceremony Thailand,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+135,2017-10-30 19:50:57.520972+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+136,2017-10-30 21:31:19.764352+09:00,007@slopestyle.com,rex@hjc-helmet.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+137,2017-10-30 21:32:47.810374+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+138,2017-10-30 21:42:27.368555+09:00,rex@hjc-helmet.com,carles@hjc-europe.com,Fwd: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+139,2017-10-31 00:10:27.365080+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,RE: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+140,2017-10-31 10:23:54.624485+09:00,areum517@hjc-helmet.com,1redflower@hjc-helmet.com,개인경비 지급의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+141,2017-10-31 10:47:04.255068+09:00,rex@hjc-helmet.com,ORG3100@hjc-helmet.com,태국 Red Baron 오프닝 이벤트 자료 공유,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+142,2017-10-31 11:45:09.789484+09:00,frans.suryadi@bab-indonesia.com,rex@hjc-helmet.com,Fwd: inquiry distributorship for bicycle helmet in Indonesia,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+143,2017-10-31 13:48:02.054363+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,FW: HUACE LCL,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+144,2017-10-31 15:40:58.252900+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,Automatic reply: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+145,2017-10-31 16:19:40.153272+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+146,2017-10-31 16:22:24.414842+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+147,2017-10-31 16:44:45.085967+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+148,2017-10-31 16:48:32.485063+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,RE: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+149,2017-10-31 17:02:45.491682+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+150,2017-10-31 17:13:37.247751+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+151,2017-10-31 17:21:47.964879+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,RE: Wednesday 18th October,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+152,2017-11-01 10:22:47.236164+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+153,2017-11-01 14:17:47.825171+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,윈드터널 사진,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+154,2017-11-01 15:13:42.176840+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:RE: Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+155,2017-11-01 15:37:33.756601+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: wind tunnel OG photo,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+156,2017-11-01 16:10:17.532649+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:RE: Re:RE: Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+157,2017-11-01 17:05:42.263133+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+158,2017-11-02 11:45:22.381243+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:RE: Re:RE: Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+159,2017-11-02 12:49:36.920418+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: Purchase Order Oct,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+160,2017-11-02 13:00:32.036622+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:RE: Re:RE: Re:RE: Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+161,2017-11-02 13:31:45.339051+09:00,frans.suryadi@bab-indonesia.com,rex@hjc-helmet.com,Re: inquiry distributorship for bicycle helmet in Indonesia,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+162,2017-11-02 14:51:43.055952+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+163,2017-11-02 15:18:47.048409+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+164,2017-11-02 15:22:01.253677+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: Purchase Order Oct,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+165,2017-11-02 15:41:42.750935+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+166,2017-11-02 18:07:58.480457+09:00,frans.suryadi@bab-indonesia.com,rex@hjc-helmet.com,Re: inquiry distributorship for bicycle helmet in Indonesia,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+167,2017-11-02 18:29:55.103120+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: Windtunnel work on the HJC TT helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+168,2017-11-02 18:41:10.925151+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+169,2017-11-02 20:57:12.151587+09:00,julia@slopestyle.com,rex@hjc-helmet.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+170,2017-11-03 02:21:03.973835+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Did your engineers already tested the ABUS Gamechanger in the Windtunnel in comparison to the FURION?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+171,2017-11-03 12:04:07.073109+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+172,2017-11-03 13:49:16.610480+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+173,2017-11-03 15:18:32.067190+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,Re:RE: Re:RE: Re:RE: Re:answers on your inquiry,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+174,2017-11-03 16:24:06.612065+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+175,2017-11-03 17:01:30.654324+09:00,lxx@sybike.com.cn,rex@hjc-helmet.com,try on picture,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+176,2017-11-03 17:36:38.041116+09:00,julia@slopestyle.com,carles@hjc-europe.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+177,2017-11-03 17:49:00.840827+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,WhatsApp is down..please call my cell +49 172 5838228,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+178,2017-11-03 18:45:55.354902+09:00,julia@slopestyle.com,carles@hjc-europe.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+179,2017-11-03 18:59:52.153372+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Report about my talk with Victor Campenaerts during the fitting day,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+180,2017-11-03 20:35:51.136729+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Industry Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+181,2017-11-03 22:40:00.402187+09:00,carles@hjc-europe.com,julia@slopestyle.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+182,2017-11-03 22:44:46.686138+09:00,julia@slopestyle.com,carles@hjc-europe.com,RE: form of new clients' registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+183,2017-11-04 18:02:42.568575+09:00,rex@hjc-helmet.com,sjhong@hjc-helmet.com,Fwd: Report about my talk with Victor Campenaerts during the fitting day,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+184,2017-11-05 17:30:22.442854+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+185,2017-11-05 18:29:00.763581+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+186,2017-11-06 10:52:47.806882+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,인스타스포츠 10월 월간리포트입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+187,2017-11-06 18:18:38.172552+09:00,jakejeon@hjc-helmet.com,rex@hjc-helmet.com,TT 헬멧 STOCK SIZE 공유의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+188,2017-11-06 18:27:07.312917+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Report about my talk with Victor Campenaerts during the fitting day,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+189,2017-11-06 21:35:58.186139+09:00,cn@vivamo.de,rex@hjc-helmet.com,FW: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+190,2017-11-06 21:48:49.191978+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+191,2017-11-07 00:34:15.264005+09:00,versh0@naver.com,karion@hjc-helmet.com,벨로 페이퍼 콘텐츠 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+192,2017-11-07 09:52:28.579691+09:00,Flatly@hjc-helmet.com,rex@hjc-helmet.com,RE: 스포츠사업본부 외화외상매입금 수정분 (9/26),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+193,2017-11-07 10:54:59.324715+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+194,2017-11-07 11:23:41.443597+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+195,2017-11-07 17:37:35.138415+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+196,2017-11-07 17:44:37.282800+09:00,mcshin@hjc-helmet.com,dwight@hjc-helmet.com,도메인 계약 만료일 도래에 따른 의견 취합 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+197,2017-11-07 17:48:25.934446+09:00,alessandro@mondialbike.com,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+198,2017-11-07 18:18:22.301298+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+199,2017-11-07 18:20:33.416542+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Fwd: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+200,2017-11-08 10:42:59.015284+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+201,2017-11-08 15:23:51.894372+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,11월 07일 미팅 회의록입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+202,2017-11-08 16:11:11.485452+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+203,2017-11-08 16:22:26.887467+09:00,rex@hjc-helmet.com,raoul@privateer.co.za,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+204,2017-11-08 16:24:17.426888+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+205,2017-11-08 16:32:34.051752+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+206,2017-11-08 17:00:24.501068+09:00,rex@hjc-helmet.com,raoul@privateer.co.za,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+207,2017-11-08 20:08:05.143981+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+208,2017-11-09 00:51:50.139954+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Lotto Soudal > design Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+209,2017-11-09 01:42:43.952101+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+210,2017-11-09 01:43:29.281415+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,"This would be an easy but very, very effective step",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+211,2017-11-09 10:38:40.898834+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+212,2017-11-09 14:13:49.318156+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+213,2017-11-09 16:13:22.675079+09:00,sjhong@hjc-helmet.com,rex@hjc-helmet.com,Re: 이태리 바이어 미팅,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+214,2017-11-09 17:08:41.617832+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,로또수달 퓨리온,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+215,2017-11-09 17:36:25.711893+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Furion color match,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+216,2017-11-09 18:39:39.201126+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+217,2017-11-09 18:40:17.172645+09:00,sabine.aich@messe-fn.de,rex@hjc-helmet.com,EUROBIKE 2017 - payment reminder,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+218,2017-11-09 18:42:16.587422+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,The 3d printer company,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+219,2017-11-09 18:46:50.793389+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+220,2017-11-09 19:58:20.047453+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+221,2017-11-09 22:10:41.795616+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+222,2017-11-10 09:44:44.248754+09:00,jakejeon@hjc-helmet.com,rex@hjc-helmet.com,(리들리 풍동시험 샘플) SHELL 견적용 3D 파일 송부의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+223,2017-11-10 11:23:19.720363+09:00,service@echoice.co.kr,rex@hjc-helmet.com,RE: [HJC Echoice] HJC 계약서 독일 -> 한국어 번역건 (주정),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+224,2017-11-10 11:48:49.826565+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Fwd: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+225,2017-11-10 14:49:43.723203+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,로또수달 그래픽 시안,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+226,2017-11-10 15:58:21.463413+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,FW: NAS 주소 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+227,2017-11-10 16:54:29.608133+09:00,service@echoice.co.kr,rex@hjc-helmet.com,RE: [HJC Echoice] HJC 계약서 독일 -> 한국어 번역건 (주정),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+228,2017-11-10 16:55:28.235478+09:00,trusbill@trusbill.or.kr,rex@hjc-helmet.com,[To:(주)홍진에이치제이씨*475][매입] 주식회사 이초이스 세금계산서가 발급(33424890) 되었습니다.(Tkcdhzwd),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+229,2017-11-10 18:27:31.243890+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: Angebot Helmentwicklung...see below the offer,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+230,2017-11-10 18:52:42.144323+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+231,2017-11-10 19:32:21.151980+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+232,2017-11-10 20:19:12.936946+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+233,2017-11-10 20:23:08.326362+09:00,rex@hjc-helmet.com,roberto.sambinelli@titici.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+234,2017-11-11 02:53:12.509997+09:00,thehardlaw@gmail.com,rex@hjc-helmet.com,URBE RHEVO FIXED TEAM,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+235,2017-11-11 23:32:09.204859+09:00,paul@lottosoudal.be,rex@hjc-helmet.com,Re: request of attend wind tunnel test,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+236,2017-11-13 11:00:46.100887+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+237,2017-11-13 16:46:37.672925+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+238,2017-11-13 16:59:28.661263+09:00,dsyoo@hjc-helmet.com,rex@hjc-helmet.com,FW: H-SONIC 인증서 및 테스트리포트,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+239,2017-11-13 17:55:04.954710+09:00,tim@ad-lips.com,rex@hjc-helmet.com,Re: 2 new invoices expenses,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+240,2017-11-13 18:18:38.558752+09:00,sarah@lottosoudal.be,rex@hjc-helmet.com,Automatisch antwoord: nice to meet you - practical questions,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+241,2017-11-13 18:24:27.392704+09:00,rex@hjc-helmet.com,els@lottosoudal.be,Re: nice to meet you - practical questions,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+242,2017-11-13 18:43:30.495927+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,As  told you this is essential as the photos will be used for the whole season... I can handmade them here if you're are not able,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+243,2017-11-13 19:53:38.716749+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: 2 new invoices expenses,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+244,2017-11-14 00:58:48.118738+09:00,eurobike@messe-fn.de,rex@hjc-helmet.com,Reminder: EUROBIKE 2018 application deadline,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+245,2017-11-14 02:17:17.069952+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,FUTURUM CYCLE ORDERS,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+246,2017-11-14 09:48:01.626691+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,HJC LOGO,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+247,2017-11-14 11:07:52.896841+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,RE: nice to meet you - practical questions,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+248,2017-11-14 15:10:24.473170+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: IBEX design and price list,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+249,2017-11-14 15:28:17.916820+09:00,service@echoice.co.kr,rex@hjc-helmet.com,(이초이스) 결과물 드립니다.  [HJC Echoice] HJC 계약서 영어 -> 한국어,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+250,2017-11-14 15:36:30.661529+09:00,service@echoice.co.kr,rex@hjc-helmet.com,RE: (이초이스) 결과물 드립니다.  [HJC Echoice] HJC 계약서 영어 -> 한국어,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+251,2017-11-14 16:18:24.572081+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+252,2017-11-14 16:46:13.603840+09:00,frederic@hjc-europe.com,pingo@ad-lips.com,RE: 2 new invoices expenses,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+253,2017-11-14 16:55:13.200423+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+254,2017-11-14 17:38:39.887186+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,RE: FUTURUM CYCLE ORDERS,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+255,2017-11-14 18:16:18.570030+09:00,Toon.Wils@cyclingfactory.be,rex@hjc-helmet.com,RE: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+256,2017-11-14 18:24:17.174173+09:00,rex@hjc-helmet.com,Rik.Vanhoof@cyclingfactory.be,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+257,2017-11-14 18:50:46.980263+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Reminder: EUROBIKE 2018 application deadline,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+258,2017-11-14 19:01:26.135828+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: Reminder: EUROBIKE 2018 application deadline,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+259,2017-11-14 19:23:26.726150+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: INTERNETSTORES formes to to fill out,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+260,2017-11-14 19:41:27.481878+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+261,2017-11-14 20:06:16.873951+09:00,frederic@hjc-europe.com,rex@hjc-helmet.com,TR: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+262,2017-11-14 20:30:59.188241+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: INTERNETSTORES formes to to fill out,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+263,2017-11-14 20:32:38.059696+09:00,rex@hjc-helmet.com,frederic@hjc-europe.com,Re: TR: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+264,2017-11-14 20:38:00.637599+09:00,rex@hjc-helmet.com,Jin@hjc-helmet.com,Re: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+265,2017-11-14 20:38:23.318506+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: master data of all products,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+266,2017-11-14 20:43:20.987912+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: final balance HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+267,2017-11-14 20:44:57.771784+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: master data of all products,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+268,2017-11-14 20:45:36.793344+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,FW: CV Martin / Engl. version,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+269,2017-11-14 21:06:07.112555+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Fwd: CV Martin / Engl. version,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+270,2017-11-14 23:07:13.078182+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,Info-Sporthelmets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+271,2017-11-14 23:23:41.722726+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,FW: Invoice sales activities,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+272,2017-11-15 10:48:04.776196+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,FW: 스포츠팀 10월 카드전표 누락 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+273,2017-11-15 11:48:05.347713+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+274,2017-11-15 14:44:21.368237+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+275,2017-11-15 14:47:52.789193+09:00,rex@hjc-helmet.com,rex@hjc-helmet.com,월간,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+276,2017-11-15 15:19:09.249249+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+277,2017-11-15 15:46:13.011696+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+278,2017-11-15 15:46:29.107340+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+279,2017-11-15 16:02:42.241264+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+280,2017-11-15 16:31:42.378367+09:00,raoul@privateer.co.za,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+281,2017-11-15 16:46:32.656476+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+282,2017-11-15 16:53:44.751260+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: H-Sonic 샘플 발송 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+283,2017-11-15 17:53:31.537225+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+284,2017-11-15 21:44:15.333961+09:00,rex@hjc-helmet.com,els@lottosoudal.be,Re: brief schedule of training camp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+285,2017-11-16 00:20:55.114938+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,FW: TT 풍동시험 및 자전거헬멧 수리출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+286,2017-11-16 10:06:53.544725+09:00,octad@hjc-helmet.com,rex@hjc-helmet.com,RPHA 90 동영상 전달,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+287,2017-11-16 13:53:56.734637+09:00,js49104@hjc-helmet.com,didlswh@hjc-helmet.com,RE: 타사 샘플 실사 관련의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+288,2017-11-16 14:01:59.033928+09:00,jrgarcia@sudoutdoors.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+289,2017-11-16 14:11:55.680293+09:00,js49104@hjc-helmet.com,didlswh@hjc-helmet.com,RE: 타사 샘플 실사 관련의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+290,2017-11-16 18:17:14.861537+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: TT 풍동시험 및 자전거헬멧 수리출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+291,2017-11-16 18:41:46.047882+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+292,2017-11-16 23:35:38.700666+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+293,2017-11-17 01:49:06.983484+09:00,Toon.Wils@cyclingfactory.be,rex@hjc-helmet.com,RE: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+294,2017-11-17 03:36:07.532796+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,FW: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+295,2017-11-17 03:53:47.007673+09:00,george@hjchelmets.com,rex@hjc-helmet.com,RE: Lotto Soudal Sponsor media announcement 자료,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+296,2017-11-17 10:05:12.566566+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,2018년도 국내 마케팅 추정금액 및 일정 정리,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+297,2017-11-17 10:47:48.636304+09:00,v21sis@hjc-helmet.com,ytlee@hjc-helmet.com,11월23일 경쟁사 샘플 재고실사의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+298,2017-11-17 11:03:52.374852+09:00,jakejeon@hjc-helmet.com,ckm0725@hjc-helmet.com,(LOTTO SOUDAL 풍동시험)_상세일정 및 담당자 LIST 공유의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+299,2017-11-17 11:10:10.902493+09:00,v21sis@hjc-helmet.com,rex@hjc-helmet.com,RE: 11월23일 경쟁사 샘플 재고실사의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+300,2017-11-17 12:40:44.067311+09:00,jrgarcia@sudoutdoors.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+301,2017-11-17 16:43:21.117576+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,스페인 UCI 트레이닝 캠프 출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+302,2017-11-17 16:50:06.436288+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+303,2017-11-17 17:49:55.957363+09:00,Projects@materialise.be,rex@hjc-helmet.com,RE: 3D Print of helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+304,2017-11-17 18:14:45.411939+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+305,2017-11-17 18:44:42.351314+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: H-Sonic 샘플 발송 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+306,2017-11-17 18:58:31.861993+09:00,customer@skype.korea.com,rex@hjc-helmet.com,[대성 스카이프]개인정보 이용내역 통지 안내,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+307,2017-11-17 20:16:17.498610+09:00,rex@hjc-helmet.com,hjh0877@hjc-helmet.com,Re: 스페인 UCI 트레이닝 캠프 출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+308,2017-11-18 01:55:53.666130+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Reservation for wind tunnel facility from HJC Helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+309,2017-11-18 10:38:56.092384+09:00,rex@hjc-helmet.com,h10@sino-huace.com,address HJCE,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+310,2017-11-18 16:05:46.719278+09:00,jakejeon@hjc-helmet.com,ckm0725@hjc-helmet.com,(LOTTO SOUDAL - 풍동시험) 출장일정 공유의 건 (2017/11/18 기준),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+311,2017-11-18 19:50:58.382229+09:00,ueacyclingclub@gmail.com,rex@hjc-helmet.com,Re: Helmet Pricing,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+312,2017-11-20 09:06:15.847737+09:00,sjhong@hjc-helmet.com,rex@hjc-helmet.com,RE: 스페인 UCI 트레이닝 캠프 출장 일정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+313,2017-11-20 17:38:46.919238+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+314,2017-11-20 18:22:00.105462+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,ALBA OPTICS PRESENTATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+315,2017-11-20 18:30:40.671283+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Hotel Mallorca,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+316,2017-11-20 21:05:48.058564+09:00,JamesMoloney@extrauk.co.uk,rex@hjc-helmet.com,HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+317,2017-11-21 10:09:20.430491+09:00,jioscom@hjc-helmet.com,TSKA28075@hjc-helmet.com,RE: 2018년 경영계획 작성 양식배포,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+318,2017-11-21 13:41:18.570200+09:00,webadm@dhl.com,rex@hjc-helmet.com,DHL ONLINE SHIPPING PREALERT ADVISORY,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+319,2017-11-21 17:53:01.694301+09:00,rex@hjc-helmet.com,Projects@materialise.be,Re: 3D Print of helmet - 83765301,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+320,2017-11-21 18:19:05.759362+09:00,SteveDavey@extrauk.co.uk,pingo@ad-lips.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+321,2017-11-21 20:44:12.901641+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+322,2017-11-21 20:48:22.804137+09:00,rex@hjc-helmet.com,JamesMoloney@extrauk.co.uk,Re: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+323,2017-11-21 21:06:32.667729+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+324,2017-11-21 21:08:25.462241+09:00,rex@hjc-helmet.com,JamesMoloney@extrauk.co.uk,Re: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+325,2017-11-21 21:08:32.672529+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+326,2017-11-21 21:09:48.518063+09:00,admin@hjc-helmet.com,rex@hjc-helmet.com,[Delivery Failure] 메일 재전송 실패,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+327,2017-11-21 21:10:02.646128+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+328,2017-11-21 21:11:18.936680+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+329,2017-11-21 21:13:36.787193+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+330,2017-11-21 21:16:03.293053+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: LOTTO SOUDAL FURION DESIGN in high res!?!?,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+331,2017-11-21 21:27:24.150286+09:00,rex@hjc-helmet.com,JamesMoloney@extrauk.co.uk,Re: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+332,2017-11-21 23:09:01.561673+09:00,Projects@materialise.be,rex@hjc-helmet.com,RE: 3D Print of helmet - 83765301,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+333,2017-11-21 23:13:02.141296+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,Fwd: 3D Print of helmet - 83765301,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+334,2017-11-22 02:06:30.465112+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0943218 / Sample to Taiwan,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+335,2017-11-22 02:33:40.665318+09:00,harm.ubbens@flandersbikevalley.be,jakejeon@hjc-helmet.com,Measurement results wind tunnel testing HJC 2017-11-20,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+336,2017-11-22 11:22:08.515589+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,로또수달 그래픽,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+337,2017-11-22 12:32:44.045004+09:00,mcshin@hjc-helmet.com,rex@hjc-helmet.com,메일 계정 설정 방법,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+338,2017-11-22 15:54:07.567333+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,FW: NAS 접속방법,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+339,2017-11-22 15:57:11.049672+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,nas 접속 주소,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+340,2017-11-22 18:32:28.529856+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,Re: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+341,2017-11-22 18:39:28.134139+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,RE: Info-Sporthelmets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+342,2017-11-22 18:43:41.786785+09:00,rex@hjc-helmet.com,carles@hjc-europe.com,Re: Info-Sporthelmets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+343,2017-11-22 20:20:30.609129+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: email account mount to macbook,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+344,2017-11-23 10:16:34.552620+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,도장파일,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+345,2017-11-23 15:59:03.647051+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,RE: 다이어리 내지 제품 소개 수정 확인,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+346,2017-11-23 16:53:23.779951+09:00,sandra.janjanin@messe-fn.de,rex@hjc-helmet.com,AW: application form_HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+347,2017-11-23 17:33:10.577508+09:00,sandra.janjanin@messe-fn.de,rex@hjc-helmet.com,AW: application form_HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+348,2017-11-23 18:01:24.484680+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+349,2017-11-23 18:16:45.664026+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+350,2017-11-23 20:32:06.678854+09:00,eurobike@messe-fn.de,rex@hjc-helmet.com,EUROBIKE 2018 - Thank you for your application,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+351,2017-11-23 23:50:47.425664+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,2017년 스포츠 사업본부 마케팅 비용 및 핑고 비용 내역 정리,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+352,2017-11-23 23:53:29.579650+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,RE: 2017년 스포츠 사업본부 마케팅 비용 및 핑고 비용 내역 정리,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+353,2017-11-24 00:54:14.442939+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0943827 / 2ea Furion Defect during repair work,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+354,2017-11-24 01:30:52.305850+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: 샘플 발송 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+355,2017-11-24 01:54:21.374710+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,스포츠 사업본부 유럽 디스트리뷰터 리스트 정리,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+356,2017-11-24 10:31:26.630179+09:00,rex@hjc-helmet.com,hjh0877@hjc-helmet.com,RE: 2017년 스포츠 사업본부 마케팅 비용 및 핑고 비용 내역 정리,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+357,2017-11-24 12:59:58.398644+09:00,shibagaki@akibo.co.jp,rex@hjc-helmet.com,Re: Rex from HJC Sports,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+358,2017-11-24 15:42:05.877728+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+359,2017-11-24 16:58:46.091729+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: 샘플 발송 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+360,2017-11-24 18:52:46.132819+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,FW: releve de factures HJC Seoul a ce jour,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+361,2017-11-25 14:55:42.200262+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+362,2017-11-27 10:56:27.569863+09:00,1redflower@hjc-helmet.com,nakamoora@hjc-helmet.com,"11/23~11/27 출,퇴근 확인 (회신요망)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+363,2017-11-27 16:34:13.309968+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+364,2017-11-27 16:37:19.832429+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+365,2017-11-27 17:14:05.633157+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: marketing forecast 2018,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+366,2017-11-27 18:00:42.132513+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+367,2017-11-27 21:11:09.239579+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+368,2017-11-27 21:27:09.275479+09:00,rex@hjc-helmet.com,HamishBingley@extrauk.co.uk,Re: Thinner pads,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+369,2017-11-27 21:31:30.925944+09:00,rex@hjc-helmet.com,Sofie.Lambeens@cyclingfactory.be,Re: contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+370,2017-11-27 23:03:28.370641+09:00,Sofie.Lambeens@cyclingfactory.be,pingo@ad-lips.com,RE: contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+371,2017-11-28 00:46:10.079599+09:00,Sofie.Lambeens@cyclingfactory.be,pingo@ad-lips.com,RE: contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+372,2017-11-28 10:17:40.528671+09:00,hjinsook@ups.com,REX@HJC-HELMET.COM,UPS Korea 메일 - UPS WAYBILL# : 94X1728WNXJ - 입항예정,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+373,2017-11-28 12:19:28.310971+09:00,kevin_feng@sino-huace.com,ckm0725@hjc-helmet.com,IBEX T4 testing results_17.11.28,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+374,2017-11-28 16:57:08.021841+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+375,2017-11-28 17:34:39.091880+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+376,2017-11-28 18:56:26.305660+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+377,2017-11-28 19:03:26.672474+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+378,2017-11-29 00:00:27.390275+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,RE: 샘플 발송 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+379,2017-11-29 10:49:47.989151+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+380,2017-11-29 12:37:42.635627+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+381,2017-11-29 15:12:23.086830+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+382,2017-11-29 15:33:40.750435+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+383,2017-11-29 18:03:18.802042+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: FW: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+384,2017-11-29 18:11:30.121694+09:00,rex@hjc-helmet.com,acodi@topfun.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+385,2017-11-29 18:19:11.002629+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+386,2017-11-29 19:48:58.492628+09:00,harm.ubbens@flandersbikevalley.be,jakejeon@hjc-helmet.com,Re: Measurement results wind tunnel testing HJC 2017-11-20,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+387,2017-11-29 19:56:56.076730+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Wind tunnel testing 20/11/2017 & 27/11/2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+388,2017-11-29 19:58:44.403563+09:00,harm.ubbens@flandersbikevalley.be,rex@hjc-helmet.com,Re: Wind tunnel testing 20/11/2017 & 27/11/2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+389,2017-11-30 14:13:22.631102+09:00,areum517@hjc-helmet.com,glowlake@hjc-helmet.com,개인경비 지급의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+390,2017-11-30 15:43:52.505789+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,FW: 사진촬영 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+391,2017-11-30 17:40:19.675264+09:00,Sofie.Lambeens@cyclingfactory.be,rex@hjc-helmet.com,RE: contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+392,2017-11-30 17:56:45.937213+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,Promotion data,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+393,2017-11-30 18:06:50.671402+09:00,rex@hjc-helmet.com,Sofie.Lambeens@cyclingfactory.be,Re: contract Lotto Soudal - HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+394,2017-11-30 18:09:03.426712+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: Promotion data,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+395,2017-11-30 18:21:36.729343+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: Promotion data,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+396,2017-11-30 18:34:54.038733+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+397,2017-11-30 18:52:51.466829+09:00,rex@hjc-helmet.com,SteveDavey@extrauk.co.uk,Re: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+398,2017-11-30 20:58:38.448696+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,"Fwd: UPDATED ""HJC Social Growth & Brand Building Proposal""",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+399,2017-11-30 22:52:57.864570+09:00,hjh0877@hjc-helmet.com,rex@hjc-helmet.com,RE: 스포츠 사업본부 해외 거래처 현황,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+400,2017-12-01 12:31:18.780536+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+401,2017-12-01 14:08:24.911072+09:00,kevin_feng@sino-huace.com,okrock@hjc-helmet.com,Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+402,2017-12-01 17:47:36.386117+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+403,2017-12-01 17:50:00.614386+09:00,roberto.sambinelli@titici.com,rex@hjc-helmet.com,Re: 회신: SAMPLES AND CONTRACT SITUATION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+404,2017-12-01 18:51:36.714724+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,HJC Media data,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+405,2017-12-02 11:11:14.714266+09:00,acodi@topfun.com,rex@hjc-helmet.com,RE: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+406,2017-12-02 15:58:11.855424+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+407,2017-12-02 17:02:59.600927+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+408,2017-12-04 16:25:04.261679+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+409,2017-12-04 16:31:11.758878+09:00,acodi@topfun.com,rex@hjc-helmet.com,RE: Lotto Soudal Design,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+410,2017-12-04 16:37:41.134452+09:00,acodi@topfun.com,rex@hjc-helmet.com,"RE: Invitation: Rex TF visit + Lunch @ Wed Dec 13, 2017 11am - 5:35pm (CET) (rex@hjc-helmet.com)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+411,2017-12-04 17:36:27.558393+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+412,2017-12-05 01:54:11.351515+09:00,pavel@festka.com,rex@hjc-helmet.com,Re: Festka new order,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+413,2017-12-05 04:11:50.320868+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,First raw marketing action and expenses,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+414,2017-12-05 11:14:06.021756+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,HJC Ibex Graghics,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+415,2017-12-05 11:17:07.221503+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,인스타스포츠 11월 월간리포트입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+416,2017-12-05 13:17:13.583754+09:00,jioscom@hjc-helmet.com,TSKA28075@hjc-helmet.com,2018년 경영계획 작성 일정 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+417,2017-12-05 18:58:50.436095+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+418,2017-12-05 19:05:44.992677+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+419,2017-12-05 19:32:21.041516+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+420,2017-12-05 20:09:59.984370+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0940095 / helmets for bicycle helmet distributor IT,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+421,2017-12-05 20:13:41.883246+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+422,2017-12-05 20:23:29.571753+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: HJC Catalogue and assets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+423,2017-12-05 23:55:59.040218+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0945259 / Sample to Taiwan,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+424,2017-12-06 14:24:37.038361+09:00,dsyoo@hjc-helmet.com,ckm0725@hjc-helmet.com,12/8 송년회 회식 장소 안내의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+425,2017-12-06 18:23:09.054326+09:00,kevin_feng@sino-huace.com,okrock@hjc-helmet.com,Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+426,2017-12-06 18:24:04.116529+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+427,2017-12-06 18:37:27.016143+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: Nuevo cliente,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+428,2017-12-06 18:38:44.174229+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: Informacion casco,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+429,2017-12-06 18:56:18.376396+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,Strasbourg stock,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+430,2017-12-06 19:08:01.322012+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: HJC-Sporthelmets customer registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+431,2017-12-07 08:58:16.735056+09:00,kenny@hjc-helmet.com,rex@hjc-helmet.com,RE: 스포츠 사업부 계약서 ( 일본 / 이태리 ),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+432,2017-12-07 10:41:40.831717+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,재고 조사 건 ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+433,2017-12-07 10:43:51.364438+09:00,kevin_feng@sino-huace.com,rex@hjc-helmet.com,Re:  RE: Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+434,2017-12-07 10:49:02.704391+09:00,kevin_feng@sino-huace.com,rex@hjc-helmet.com,Re:  RE:  RE: Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+435,2017-12-07 11:02:15.728611+09:00,kevin_feng@sino-huace.com,rex@hjc-helmet.com,Re:  RE:  RE:  Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+436,2017-12-07 11:22:06.103724+09:00,1redflower@hjc-helmet.com,dlwhddntl@hjc-helmet.com,"12/6~12/7 출,퇴근 (회신요망)",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+437,2017-12-07 11:41:52.411174+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,로또수달 코드 추가,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+438,2017-12-07 12:14:10.943712+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,변아현 주간보고 ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+439,2017-12-07 14:04:20.650590+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,유통브랜드 조사 ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+440,2017-12-07 14:24:59.812654+09:00,kevin_feng@sino-huace.com,rex@hjc-helmet.com,Re:  RE:  RE:  Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+441,2017-12-07 14:33:22.905277+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,RE: 로또수달 코드 추가,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+442,2017-12-07 14:33:40.280972+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,RE: 로또수달 코드 추가,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+443,2017-12-07 15:48:13.914910+09:00,cyong@hjc-helmet.com,kimyi@hjc-helmet.com,17년 매출전망,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+444,2017-12-07 16:46:28.882204+09:00,kevin_feng@sino-huace.com,rex@hjc-helmet.com,Re:  RE:  RE:  Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+445,2017-12-07 17:16:44.952344+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,영업팀 윤일제 주간보고입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+446,2017-12-07 17:29:45.116049+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,스포츠 영업팀 주간 보고_171207,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+447,2017-12-07 18:11:53.762191+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: Informacion casco,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+448,2017-12-07 23:09:11.484178+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: TR: HJC-Sporthelmets customer registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+449,2017-12-08 08:28:03.620916+09:00,jioscom@hjc-helmet.com,TSKA28075@hjc-helmet.com,RE: 2018년 경영계획 작성 일정 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+450,2017-12-08 10:15:45.194369+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 항공 예약 정보입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+451,2017-12-08 14:29:59.423020+09:00,okrock@hjc-helmet.com,kevin_feng@sino-huace.com,RE:  RE:  RE:  Requests Furion Inner box stickers design_all colors_17.12.01,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+452,2017-12-08 15:06:06.982219+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,월간 보고자료 첨부,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+453,2017-12-08 15:14:08.108963+09:00,rex@hjc-helmet.com,jioscom@hjc-helmet.com,RE: 2018년 경영계획 작성 일정 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+454,2017-12-08 15:16:44.367714+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,RE: 2018년 경영계획 작성 일정 관련,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+455,2017-12-08 15:35:34.090401+09:00,ckm0725@hjc-helmet.com,rex@hjc-helmet.com,"FW: 2015, 2016년도 스포츠모 매출실적",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+456,2017-12-08 16:05:41.572697+09:00,koopa@hjc-helmet.com,cyong@hjc-helmet.com,RE: 17년 매출전망,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+457,2017-12-08 16:14:11.225582+09:00,carles@hjc-europe.com,pingo@ad-lips.com,RE: TR: HJC-Sporthelmets customer registration,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+458,2017-12-08 16:27:42.245522+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+459,2017-12-10 17:47:39.115646+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+460,2017-12-11 10:33:29.826091+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 항공 예약 정보입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+461,2017-12-11 10:40:54.641382+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,FW: 2018년 발주계획 수정본,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+462,2017-12-11 11:26:52.261683+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님의 항공 예약 정보입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+463,2017-12-11 11:35:56.833465+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,RE: YOO/YOUNGBAEMR님의 항공 예약 정보입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+464,2017-12-11 13:52:24.121950+09:00,tylee@hjc-helmet.com,paulkim@hjc-helmet.com,ABTC카드 진행 사항 안내_법무부 불허,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+465,2017-12-11 14:07:16.875159+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+466,2017-12-11 16:24:35.992210+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: [HJC Europa | Cascos de moto - Accesorios de moto - Motociclismo] Espana - Message envoye depuis le formulaire de contact,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+467,2017-12-11 17:00:38.638713+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,자전거모 품목 재고 현황,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+468,2017-12-11 17:10:48.195594+09:00,qusdkgus@hjc-helmet.com,qusdkgus@hjc-helmet.com,RE: 자전거모 품목 재고 현황,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+469,2017-12-11 18:05:55.162868+09:00,1redflower@hjc-helmet.com,rex@hjc-helmet.com,FW: YOO/YOUNGBAEMR님 외 3명의 전자항공권 발행확인서/e-Ticket Itinerary & Receipt 입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+470,2017-12-11 18:26:10.998999+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+471,2017-12-11 18:31:31.356813+09:00,acodi@topfun.com,rex@hjc-helmet.com,Re: [HJC Europa | Cascos de moto - Accesorios de moto - Motociclismo] Espana - Message envoye depuis le formulaire de contact,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+472,2017-12-11 18:43:41.273508+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+473,2017-12-11 19:32:29.965652+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+474,2017-12-11 19:45:26.941729+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+475,2017-12-12 00:43:21.347684+09:00,rex@hjc-helmet.com,pingo@ad-lips.com,"meeting with Jon, two tone",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+476,2017-12-12 00:49:38.170256+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,"Re: meeting with Jon, two tone",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+477,2017-12-12 08:08:00.687821+09:00,george@hjchelmets.com,rex@hjc-helmet.com,RE: 스포츠 사업본부 거래 계약서 검토 요청,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+478,2017-12-12 10:58:52.611035+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,ㅇㅇ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+479,2017-12-12 12:39:18.775363+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+480,2017-12-12 13:20:37.222552+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+481,2017-12-12 13:27:13.296343+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+482,2017-12-12 13:56:23.942527+09:00,rex@hjc-helmet.com,haruki@akiworld.co.jp,Re: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+483,2017-12-12 14:41:37.415668+09:00,rex@hjc-helmet.com,kevin_feng@sino-huace.com,Re: sample list for each destination,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+484,2017-12-12 17:02:56.166990+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,"Poland,- Powerbike",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+485,2017-12-12 17:05:10.547113+09:00,rex@hjc-helmet.com,carles@hjc-europe.com,"Re: Poland,- Powerbike",Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+486,2017-12-12 18:59:12.974829+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Hotel Pingo and Rex....,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+487,2017-12-12 19:31:29.211890+09:00,pingo@ad-lips.com,carles@hjc-europe.com,Cataloques ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+488,2017-12-12 19:44:26.240053+09:00,carles@hjc-europe.com,pingo@ad-lips.com,RE: Cataloques ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+489,2017-12-12 21:02:25.111527+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: Storage costs HJC booth Eurobike 2017,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+490,2017-12-12 23:39:23.648781+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+491,2017-12-13 12:20:57.828764+09:00,germanpig@gmail.com,rex@hjc-helmet.com,test,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+492,2017-12-13 12:22:09.620884+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,짜요~,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+493,2017-12-14 10:35:57.851354+09:00,lsj8027@hjc-helmet.com,John@hjc-helmet.com,RE: [송년회]80年生 모임.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+494,2017-12-14 11:18:21.685253+09:00,okrock@hjc-helmet.com,lsj8027@hjc-helmet.com,RE: [송년회]80年生 모임.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+495,2017-12-14 11:22:53.999139+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,dhl 샘플 발송건 & 재고현황,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+496,2017-12-14 16:59:59.837374+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,영업팀 윤일제 주간보고입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+497,2017-12-14 23:31:27.685243+09:00,ChrisStuckey@extrauk.co.uk,rex@hjc-helmet.com,Helmet Display,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+498,2017-12-15 17:56:32.620695+09:00,isologaistua@manufacturasges.com,rex@hjc-helmet.com,DISTRIBUTION FOR SPAIN,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+499,2017-12-15 19:10:34.326156+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,ticket,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+500,2017-12-15 23:14:20.351126+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: Festka new order,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+501,2017-12-16 01:19:52.447402+09:00,kuwouters@gmail.com,pingo@hjc-helmet.com,Helmets Tour down under,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+502,2017-12-16 02:05:44.086843+09:00,rex@hjc-helmet.com,kuwouters@gmail.com,Re: Helmets Tour down under,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+503,2017-12-16 02:33:07.833116+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: 회신: Festka new order,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+504,2017-12-16 13:58:10.577459+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+505,2017-12-16 15:02:54.356450+09:00,rex@hjc-helmet.com,marksmanneil@gmail.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+506,2017-12-16 15:06:09.561753+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+507,2017-12-16 16:00:03.374012+09:00,kuwouters@gmail.com,rex@hjc-helmet.com,Re: Helmets Tour down under,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+508,2017-12-17 19:06:26.758842+09:00,rex@hjc-helmet.com,acodi@topfun.com,Fwd: Your files were sent successfully to pingo@ad-lips.com,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+509,2017-12-18 13:55:55.600856+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re:,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+510,2017-12-18 14:49:42.580227+09:00,info@ksmarthelmet.com,rex@hjc-helmet.com,Seasons Greetings from SMART helmet,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+511,2017-12-18 15:36:31.196093+09:00,jioscom@hjc-helmet.com,ORGVR0018@hjc-helmet.com,12월 18일 현재 매출 실적 현황입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+512,2017-12-18 15:37:50.803914+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,FW: 12월 18일 현재 매출 실적 현황입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+513,2017-12-18 16:46:22.483356+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: 회신: Festka new order,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+514,2017-12-18 16:49:01.106190+09:00,rex@hjc-helmet.com,carles@hjc-europe.com,Re: TR: 회신: Festka new order,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+515,2017-12-18 16:49:33.679408+09:00,carles@hjc-europe.com,rex@hjc-helmet.com,TR: ibSJ - AW: stt DEDTM712826802-HJC EUROPE,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+516,2017-12-18 19:35:51.844763+09:00,101@hjc-helmet.com,sjkim@hjc-helmet.com,FW: 첫번째 세금계산서 발행과 디자인개발 관련 요청건 (비온크리에이티브),Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+517,2017-12-18 23:43:19.333063+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: HJC China factory,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+518,2017-12-19 01:08:39.418448+09:00,donotreplyorbitz@mailer.orbitz.com,rex@hjc-helmet.com,(Coupon inside) A flurry of hotel deals,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+519,2017-12-19 14:51:12.580515+09:00,ohdal486@hjc-helmet.com,kimyi@hjc-helmet.com,2017년 결산 재고실사 수검자 명단 협조의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+520,2017-12-19 15:58:25.995585+09:00,jioscom@hjc-helmet.com,paul0801@hjc-helmet.com,HJCK 폐기 및 장기 불용 재고 활용제안 포상제도 시행 공지 입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+521,2017-12-20 14:56:35.375942+09:00,cyong@hjc-helmet.com,Leeminho@hjc-helmet.com,RE: ERP 최종 평가 회의 미참석 부서 명단,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+522,2017-12-20 17:26:37.796615+09:00,ohdal486@hjc-helmet.com,kimyi@hjc-helmet.com,RE: 2017년 결산 재고실사 수검자 명단 협조의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+523,2017-12-20 17:47:39.359557+09:00,roberto.sambinelli@titici.com,pedro@xsports.pt,HJC HELMETS DISTRIBUTION,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+524,2017-12-20 21:13:20.656234+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+525,2017-12-21 02:49:19.182320+09:00,rex@hjc-helmet.com,manager@airwerkscycles.com,Re: Air Werks HJC corp,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+526,2017-12-21 07:56:10.375151+09:00,haruki1980@gmail.com,rex@hjc-helmet.com,Re: JP Japan Distribution.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+527,2017-12-21 23:14:35.447348+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: Israel distribution,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+528,2017-12-22 16:34:41.186918+09:00,okrock@hjc-helmet.com,John@hjc-helmet.com,RE: [송년회]80年生 모임.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+529,2017-12-22 16:58:06.715315+09:00,lsj8027@hjc-helmet.com,John@hjc-helmet.com,RE: [송년회]80年生 모임.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+530,2017-12-22 18:50:59.791030+09:00,tzahi@dzsystems.co.il,rex@hjc-helmet.com,Re: Israel distribution,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+531,2017-12-22 21:47:14.513509+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0947624 / Bycicle helmet repair,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+532,2017-12-22 21:49:12.185817+09:00,Jin@hjc-helmet.com,rex@hjc-helmet.com,Invoice F0947626 / Hotel,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+533,2017-12-26 11:34:19.653364+09:00,okrock@hjc-helmet.com,rex@hjc-helmet.com,엘스 드 디어,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+534,2017-12-26 12:27:59.465224+09:00,tzahi@dzsystems.co.il,rex@hjc-helmet.com,Re: Israel distribution,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+535,2017-12-26 14:12:06.973356+09:00,tzahi@dzsystems.co.il,rex@hjc-helmet.com,Re: Israel distribution,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+536,2017-12-26 18:29:22.063917+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+537,2017-12-26 18:34:13.444453+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+538,2017-12-26 19:27:01.538790+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,Automatic reply: distribution agreement,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+539,2017-12-27 10:19:35.368365+09:00,okrock@hjc-helmet.com,rokmc6729@hjc-helmet.com,RE: [송년회]80年生 모임.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+540,2017-12-27 14:21:13.711398+09:00,areum517@hjc-helmet.com,1redflower@hjc-helmet.com,개인경비 지급의 건,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+541,2017-12-27 14:33:13.676228+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+542,2017-12-27 14:44:02.894151+09:00,jioscom@hjc-helmet.com,rex@hjc-helmet.com,2017년 스포츠모 매출 실적,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+543,2017-12-27 14:51:43.692859+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,HJC order DUBAI ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+544,2017-12-27 15:54:21.541091+09:00,jioscom@hjc-helmet.com,ORGVR0018@hjc-helmet.com,2017년 매출 실적 현황입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+545,2017-12-27 18:09:03.399657+09:00,manager@airwerkscycles.com,rex@hjc-helmet.com,Re: HJC order DUBAI,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+546,2017-12-28 04:28:59.127109+09:00,pingo@ad-lips.com,sjhong@hjc-helmet.com,Important and interesting contact...,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+547,2017-12-28 08:07:34.493815+09:00,jioscom@hjc-helmet.com,ORGVR0018@hjc-helmet.com,2017년 매출 실적 현황입니다. ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+548,2017-12-28 10:09:21.069134+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+549,2017-12-28 17:09:30.954706+09:00,karion@hjc-helmet.com,rex@hjc-helmet.com,영업팀 윤일제 주간보고입니다.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+550,2017-12-28 17:21:11.575288+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,변아현 주간보고,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+551,2017-12-28 17:31:42.618979+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,스포츠 영업팀 주간보고_171228,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+552,2017-12-29 08:25:51.250405+09:00,dwight@hjc-helmet.com,rex@hjc-helmet.com,Fw : Happy New Year !!!,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+553,2017-12-29 11:24:29.073598+09:00,rex@hjc-helmet.com,ckm0725@hjc-helmet.com,스포츠 영업팀 주간 보고,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+554,2017-12-29 11:42:24.020980+09:00,marksmanneil@gmail.com,rex@hjc-helmet.com,Re: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+555,2017-12-29 14:10:16.120968+09:00,haruki@akiworld.co.jp,rex@hjc-helmet.com,RE: JP Japan Distribution.,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+556,2017-12-29 14:45:42.553030+09:00,gloria.marketing@redbaroncycling.com,rex@hjc-helmet.com,Re: FW: FW: C/ Bestone Cycling import Ningbo-BANGKOK 曼谷,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+557,2017-12-29 15:32:17.282947+09:00,qusdkgus@hjc-helmet.com,rex@hjc-helmet.com,스포츠영업팀 헬멧 재고,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+558,2018-01-03 01:24:46.737442+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+559,2018-01-03 18:48:12.275058+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,General Points,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+560,2018-01-04 19:55:20.737889+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,RE: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+561,2018-01-04 22:27:55.177276+09:00,SimonFord@extrauk.co.uk,rex@hjc-helmet.com,RE: Rex from HJC,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+562,2018-01-04 23:26:19.413883+09:00,StephenHayes@extrauk.co.uk,rex@hjc-helmet.com,HJC and EXTRA UK Press Release,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+563,2018-01-19 20:43:21.354521+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: Furion Inner Paddings are sent to replace as thinner one,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+564,2018-02-01 20:11:40.044261+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Re: ZYPERN!!!,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+565,2018-02-02 01:22:56.272219+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: URGENT: Helmets,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+566,2018-02-06 18:31:33.335330+09:00,SteveDavey@extrauk.co.uk,rex@hjc-helmet.com,RE: new helmet design proposal,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+567,2018-02-07 02:16:55.741350+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: HJC - BikeBizTrade Magazine,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+568,2018-02-07 18:49:23.526712+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Fwd: final demand // invoice 13793,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+569,2018-02-08 21:31:57.606394+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,to let you know,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+570,2018-02-12 19:07:32.900327+09:00,pingo@ad-lips.com,carles@hjc-europe.com,Samples for RIDLEY our Benelux distributer ,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+571,2018-02-12 20:51:01.467923+09:00,pingo@ad-lips.com,jochim.aerts@cyclingfactory.be,Reminder of meeting Jochim/Pingo and Filip/Pingo last Thursday at RIDLEY,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable
+572,2018-02-21 18:34:46.096825+09:00,pingo@ad-lips.com,rex@hjc-helmet.com,Sportsnut,Error: gpt-4.1 mini API 호출 실패 - 'NoneType' object is not subscriptable

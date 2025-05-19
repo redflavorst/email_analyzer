@@ -24,25 +24,35 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 class SummarizeEmailsNode:
     """
-    Ollama를 사용하여 이메일 데이터를 2단계로 요약하고 파일로 관리하는 노드:
+    Ollama 또는 gpt-4.1 mini 등 다양한 요약 모델을 사용하여 이메일 데이터를 2단계로 요약하고 파일로 관리하는 노드:
     1. 개별 이메일 요약을 임시 파일에 저장
     2. 임시 파일을 읽어 전체 요약 생성
     """
-    def __init__(self, ollama_base_url="http://localhost:11434", ollama_model="qwen3:4b", output_dir="data/summaries"):
+    def __init__(self, model_provider="ollama", model_name="qwen3:4b", output_dir="data/summaries", ollama_base_url="http://localhost:11434", openai_api_key=None):
         self.single_prompt_path = 'd:\\PythonProject\\llm\\email_analyzer2\\prompts\\single_email_summary_prompt.yaml'
         self.total_prompt_path = 'd:\\PythonProject\\llm\\email_analyzer2\\prompts\\total_email_summary_prompt.yaml'
         self.single_prompt_template = self._load_prompt_template(self.single_prompt_path)
         self.total_prompt_template = self._load_prompt_template(self.total_prompt_path)
+        self.model_provider = model_provider # 'ollama' 또는 'gpt4mini' 등
+        self.model_name = model_name
         self.ollama_base_url = ollama_base_url
-        self.ollama_model = ollama_model
+        self.openai_api_key = openai_api_key
         self.temp_dir = tempfile.gettempdir()
-        # LLM 파라미터 초기화 추가
-        self.max_tokens = 2000  # 기본값 500
-        self.temperature = 0.3 # 기본값 0.3
-        
+        # LLM 파라미터 초기화
+        self.max_tokens = 2000
+        self.temperature = 0.3
         self.output_dir = os.path.abspath(output_dir)
         os.makedirs(self.output_dir, exist_ok=True)
         logging.info(f"SummarizeEmailsNode: Output directory set to {self.output_dir}")
+
+        # gpt-4.1 mini용 유틸리티 임포트 (필요시)
+        try:
+            from utils.call_gpt4mini import call_gpt4mini_api
+            self.call_gpt4mini_api = call_gpt4mini_api
+        except ImportError:
+            self.call_gpt4mini_api = None
+            logging.warning("gpt-4.1 mini 호출 유틸리티를 불러올 수 없습니다.")
+
 
     def _load_prompt_template(self, file_path: str) -> str:
         try:
@@ -57,129 +67,85 @@ class SummarizeEmailsNode:
             return ""
 
     def _call_llm_api(self, prompt, max_tokens=2000, temperature=0.3):
-        api_url = f"{self.ollama_base_url}/api/generate"
-        payload = {
-            "model": self.ollama_model,
-            "prompt": prompt,
-            "stream": False,
-            "options": {
-                "num_predict": max_tokens,
-                "temperature": temperature
+        """
+        provider/model_name에 따라 ollama 또는 gpt-4.1 mini 등 다양한 LLM API를 호출합니다.
+        """
+        # Ollama 모델 호출
+        if self.model_provider == "ollama":
+            api_url = f"{self.ollama_base_url}/api/generate"
+            payload = {
+                "model": self.model_name,
+                "prompt": prompt,
+                "stream": False,
+                "options": {
+                    "num_predict": max_tokens,
+                    "temperature": temperature
+                }
             }
-        }
-
-        # --- 시간 측정 및 로깅 추가 시작 ---
-        start_time = time.time()
-        # 로그 파일 경로 설정 (output_dir 내부에 logs 폴더를 만들고 그 안에 저장)
-        log_dir = os.path.join(self.output_dir, "logs")
-        os.makedirs(log_dir, exist_ok=True) # 로그 디렉토리 생성 (이미 있으면 무시)
-        api_log_file_path = os.path.join(log_dir, "api_call_times.txt")
-        # --- 시간 측정 및 로깅 추가 끝 ---
-
-        try:
-            response = requests.post(api_url, json=payload)
-            response.raise_for_status()
-            response_data = response.json()
-            
-
-            # --- 시간 측정 및 로깅 추가 시작 ---
-            end_time = time.time()
-            duration_ms = (end_time - start_time) * 1000
-            pid = os.getpid()
-            log_message = f"PID: {pid} - LLM API call to '{self.ollama_model}' duration: {duration_ms:.2f} ms"
-            logging.info(log_message)
-            with open(api_log_file_path, 'a', encoding='utf-8') as f_log:
-                f_log.write(f"{datetime.now().isoformat()} - {log_message}\n")
-            # --- 시간 측정 및 로깅 추가 끝 ---
-
-
-            # Check if 'response' key exists and is not empty
-            if response_data and 'response' in response_data and response_data['response']:
-                raw_response_text = response_data['response']
-                # logging.debug(f"LLM API Raw response (before <think> processing, len: {len(raw_response_text)}): '{raw_response_text[:300]}{'...' if len(raw_response_text) > 300 else ''}'")
-
-                # Attempt to remove <think>...</think> blocks first
-                processed_text = re.sub(r"<think>.*?</think>", "", raw_response_text, flags=re.DOTALL).strip()
-                
-                # Handle cases where <think> might be unterminated or an attempt to use content before it
-                if "<think>" in processed_text: # If still present after regex (e.g. unterminated)
-                    # logging.warning(f"Potential unterminated or malformed '<think>' tag detected after regex. Initial processed: '{processed_text[:300]}'")
-                    # If the whole remaining text starts with <think>
-                    if processed_text.startswith("<think>"):
-                        # Check if there was any meaningful content *before* the first <think> in the *original* raw response
-                        original_parts = raw_response_text.split("<think>", 1)
-                        if len(original_parts) > 0 and original_parts[0].strip():
-                            processed_text = original_parts[0].strip()
-                            # logging.info(f"Using content found *before* the first '<think>' tag in original response. New summary: '{processed_text[:300]}'")
-                        else:
-                            # logging.error(f"Unterminated '<think>' block without preceding content. Response might be unusable. Original: '{raw_response_text[:300]}'")
-                            processed_text = "요약 생성 중 오류: LLM 응답이 <think> 태그로 시작하고 종료되지 않음"
-                    else: # <think> is present, but not at the start. Try taking content before it.
-                        parts = processed_text.split("<think>", 1)
-                        processed_text = parts[0].strip()
-                        # logging.info(f"Taking content before a remaining '<think>' tag. New summary: '{processed_text[:300]}'")
-                
-                # if raw_response_text != processed_text:
-                    # logging.info(f"<think> tag processing applied. Original len: {len(raw_response_text)}, Processed len: {len(processed_text)}. Processed (first 300): '{processed_text[:300]}'")
-                # else:
-                    # logging.debug(f"No <think> tags processed or found in final response text (first 300): '{processed_text[:300]}'")
-
-                # Log metadata (example, adjust if different metadata is needed from OpenAI SDK)
-                # response.model, response.created, response.id are available
-                # logging.debug(f"LLM API Response Metadata: model='{response_data.get('model')}', created='{response_data.get('created_at') if 'created_at' in response_data else response_data.get('created')}', id='{response_data.get('id')}'")
-                logging.info(f"LLM API 응답 수신 (길이: {len(processed_text)}) - '{processed_text[:50]}{'...' if len(processed_text) > 50 else ''}'") # 최종 처리된 길이 -> 길이, 내용 미리보기 축소
-                return processed_text
-
-            else:
-                # --- 시간 측정 및 로깅 추가 (에러 또는 빈 응답 케이스) 시작 ---
-                end_time_error = time.time()
-                duration_ms_error = (end_time_error - start_time) * 1000
-                pid_error = os.getpid()
-                error_log_message = f"PID: {pid_error} - LLM API call to '{self.ollama_model}' resulted in empty or missing response. Duration: {duration_ms_error:.2f} ms. Response: {response_data}"
-                logging.warning(error_log_message)
+            start_time = time.time()
+            log_dir = os.path.join(self.output_dir, "logs")
+            os.makedirs(log_dir, exist_ok=True)
+            api_log_file_path = os.path.join(log_dir, "api_call_times.txt")
+            try:
+                response = requests.post(api_url, json=payload)
+                response.raise_for_status()
+                response_data = response.json()
+                end_time = time.time()
+                duration_ms = (end_time - start_time) * 1000
+                pid = os.getpid()
+                log_message = f"PID: {pid} - Ollama LLM API call to '{self.model_name}' duration: {duration_ms:.2f} ms"
+                logging.info(log_message)
                 with open(api_log_file_path, 'a', encoding='utf-8') as f_log:
-                    f_log.write(f"{datetime.now().isoformat()} - {error_log_message}\n")
-                # --- 시간 측정 및 로깅 추가 (에러 또는 빈 응답 케이스) 끝 ---
-                return "Error: LLM response was empty or not found in expected format."
-
-        except requests.exceptions.RequestException as e:
-            # --- 시간 측정 및 로깅 추가 (RequestException 케이스) 시작 ---
-            end_time_req_error = time.time()
-            duration_ms_req_error = (end_time_req_error - start_time) * 1000
-            pid_req_error = os.getpid()
-            req_error_log_message = f"PID: {pid_req_error} - LLM API Call RequestException for model '{self.ollama_model}': {e}. Duration before error: {duration_ms_req_error:.2f} ms"
-            logging.error(req_error_log_message, exc_info=False) # exc_info=False to avoid overly verbose logs here
-            with open(api_log_file_path, 'a', encoding='utf-8') as f_log:
-                f_log.write(f"{datetime.now().isoformat()} - {req_error_log_message}\n")
-            # --- 시간 측정 및 로깅 추가 (RequestException 케이스) 끝 ---
-            return f"Error: API request failed - {e}"
-
-        except json.JSONDecodeError as e:
-            logging.error(f"Ollama API 응답 JSON 디코딩 오류: {e}. 응답 텍스트: {response.text}")
-            return f"Error decoding Ollama JSON response: {str(e)}"
-        except Exception as e:
-            # --- 시간 측정 및 로깅 추가 (일반 Exception 케이스) 시작 ---
-            end_time_gen_error = time.time()
-            duration_ms_gen_error = (end_time_gen_error - start_time) * 1000
-            pid_gen_error = os.getpid()
-            gen_error_log_message = f"PID: {pid_gen_error} - LLM API Call General Exception for model '{self.ollama_model}': {e}. Duration before error: {duration_ms_gen_error:.2f} ms"
-            logging.error(gen_error_log_message, exc_info=True)
-            with open(api_log_file_path, 'a', encoding='utf-8') as f_log:
-                f_log.write(f"{datetime.now().isoformat()} - {gen_error_log_message}\n")
-            # --- 시간 측정 및 로깅 추가 (일반 Exception 케이스) 끝 ---
-            return f"Error: An unexpected error occurred during API call - {e}"
+                    f_log.write(f"{datetime.now().isoformat()} - {log_message}\n")
+                if response_data and 'response' in response_data and response_data['response']:
+                    raw_response_text = response_data['response']
+                    processed_text = re.sub(r"<think>.*?</think>", "", raw_response_text, flags=re.DOTALL).strip()
+                    if "<think>" in processed_text:
+                        if processed_text.startswith("<think>"):
+                            original_parts = raw_response_text.split("<think>", 1)
+                            if len(original_parts) > 0 and original_parts[0].strip():
+                                processed_text = original_parts[0].strip()
+                            else:
+                                processed_text = "요약 생성 중 오류: LLM 응답이 <think> 태그로 시작하고 종료되지 않음"
+                        else:
+                            parts = processed_text.split("<think>", 1)
+                            processed_text = parts[0].strip()
+                    logging.info(f"Ollama LLM API 응답 수신 (길이: {len(processed_text)}) - '{processed_text[:50]}{'...' if len(processed_text) > 50 else ''}'")
+                    return processed_text
+                else:
+                    end_time_error = time.time()
+                    duration_ms_error = (end_time_error - start_time) * 1000
+                    pid_error = os.getpid()
+                    error_log_message = f"PID: {pid_error} - Ollama LLM API call to '{self.model_name}' resulted in empty or missing response. Duration: {duration_ms_error:.2f} ms. Response: {response_data}"
+                    logging.warning(error_log_message)
+                    with open(api_log_file_path, 'a', encoding='utf-8') as f_log:
+                        f_log.write(f"{datetime.now().isoformat()} - {error_log_message}\n")
+                    return "Error: LLM response was empty or not found in expected format."
+            except Exception as e:
+                logging.error(f"Ollama LLM API 호출 오류: {e}")
+                return f"Error: Ollama API 호출 실패 - {e}"
+        # gpt-4.1 mini(OpenAI 호환) 호출
+        elif self.model_provider == "gpt4mini":
+            if self.call_gpt4mini_api is None:
+                logging.error("gpt-4.1 mini 호출 유틸리티가 없습니다. utils/call_gpt4mini.py를 확인하세요.")
+                return "Error: gpt-4.1 mini 호출 유틸리티 없음"
+            try:
+                result = self.call_gpt4mini_api(prompt, api_key=self.openai_api_key, model=self.model_name, max_tokens=max_tokens, temperature=temperature)
+                logging.info(f"gpt-4.1 mini API 응답 수신 (길이: {len(result) if result else 0}) - '{result[:50]}{'...' if result and len(result) > 50 else ''}'")
+                return result
+            except Exception as e:
+                logging.error(f"gpt-4.1 mini API 호출 오류: {e}")
+                return f"Error: gpt-4.1 mini API 호출 실패 - {e}"
+        else:
+            logging.error(f"지원하지 않는 model_provider: {self.model_provider}")
+            return f"Error: 지원하지 않는 model_provider: {self.model_provider}"
 
     def _process_single_email(self, email: Dict[str, Any], idx: int, contact_email: str) -> Dict[str, Any]:
         """단일 이메일을 처리하여 요약 데이터를 반환 (병렬 프로세스에서 호출)."""
-        # email, idx are now direct arguments
-
-        current_process_id = os.getpid() # 현재 프로세스 ID 가져오기
-        logging.info(f"PID: {current_process_id} - 처리 시작: 이메일 idx {idx} (연락처: {contact_email})") # PID 로깅 추가
-
+        current_process_id = os.getpid()
+        logging.info(f"PID: {current_process_id} - 처리 시작: 이메일 idx {idx} (연락처: {contact_email})")
         original_email_id = email.get('id', email.get('문서No', f'fallback_id_{idx}'))
         content_for_prompt = email.get('cleaned_content', '')
-
-        # Sender/Receiver 이메일 주소 추출
         raw_sender = email.get('sender', '')
         raw_receiver = email.get('receiver', '')
         extracted_sender_email = extract_email(raw_sender) if raw_sender else 'N/A'
@@ -190,16 +156,14 @@ class SummarizeEmailsNode:
             extracted_receiver_email = 'N/A'
         sender_for_prompt = extracted_sender_email if extracted_sender_email else 'N/A'
         receiver_for_prompt = extracted_receiver_email if extracted_receiver_email else 'N/A'
-
         summary_data = {
             'idx': idx + 1,
             'date': email.get('date', 'N/A'),
             'sender': sender_for_prompt,
             'receiver': receiver_for_prompt,
             'subject': email.get('subject', 'N/A'),
-            'summary': 'Error: Processing failed before summarization' # Default error message
+            'summary': 'Error: Processing failed before summarization'
         }
-
         try:
             logging.debug(f"Processing email {summary_data['idx']} for {contact_email} (Original ID: {original_email_id}) in process {os.getpid()})")
             prompt = self.single_prompt_template.format(
@@ -209,21 +173,18 @@ class SummarizeEmailsNode:
                 subject=summary_data['subject'],
                 content=content_for_prompt
             )
+            # 모델 파라미터를 self에서 가져오도록 수정
             llm_summary = self._call_llm_api(prompt, max_tokens=self.max_tokens, temperature=self.temperature)
-
             if not llm_summary.startswith("Error"):
                 summary_data['summary'] = llm_summary
-                # logging.info(f"개별 요약 생성됨 (idx: {summary_data['idx']}, Original ID: {original_email_id})") # Can be too verbose
             else:
-                summary_data['summary'] = f"{llm_summary}" # Keep the error from _call_llm_api
+                summary_data['summary'] = f"{llm_summary}"
                 logging.warning(f"개별 요약 생성 실패 (idx: {summary_data['idx']}, Original ID: {original_email_id}): {llm_summary}")
-
         except Exception as e:
             error_message = f"Error during processing email idx {summary_data['idx']}: {type(e).__name__}: {e}"
             summary_data['summary'] = error_message
-            logging.error(f"PID: {current_process_id} - 오류: 이메일 idx {summary_data['idx']} (연락처: {contact_email}, 원본 ID: {original_email_id}): {e}", exc_info=True) # 오류 로그에도 PID 추가
-
-        logging.info(f"PID: {current_process_id} - 처리 완료: 이메일 idx {idx} (연락처: {contact_email})") # 완료 로그에도 PID 추가
+            logging.error(f"PID: {current_process_id} - 오류: 이메일 idx {summary_data['idx']} (연락처: {contact_email}, 원본 ID: {original_email_id}): {e}", exc_info=True)
+        logging.info(f"PID: {current_process_id} - 처리 완료: 이메일 idx {idx} (연락처: {contact_email})")
         return summary_data
 
     def summarize_individual_emails(self, contact_email: str, emails: List[Dict[str, Any]]) -> tuple[str, list]:
@@ -303,23 +264,17 @@ class SummarizeEmailsNode:
         if not individual_summaries:
             logging.warning(f"개별 요약이 없어 전체 요약을 생성할 수 없습니다 ({contact_email})")
             return "개별 요약 정보가 없어 전체 요약을 생성할 수 없습니다."
-
-        # Format individual summaries for the prompt
         formatted_summaries = "\n".join([
             f"- {s['date'][:10]} ({s['sender']} → {s['receiver']}): {s['summary']}" 
             for s in individual_summaries
         ])
-        
         prompt_data = {
             "contact_email": contact_email,
             "num_emails": len(individual_summaries),
             "individual_summaries": formatted_summaries
         }
-        
-        # Format the prompt string using the prompt_data dictionary
         formatted_prompt = self.total_prompt_template.format(**prompt_data)
-        
-        # Call _call_llm_api with the formatted prompt and no prompt_data argument
+        # 전체 요약도 선택된 모델로 호출
         overall_summary = self._call_llm_api(formatted_prompt, max_tokens=20000, temperature=0.3)
         logging.info(f"DEBUG: summarize_overall 종료 - 연락처: {contact_email}, 전체 요약 길이: {len(overall_summary)}")
         return overall_summary
@@ -330,27 +285,20 @@ class SummarizeEmailsNode:
             logging.warning("grouped_emails를 찾을 수 없거나 비어있습니다. SummarizeEmailsNode 처리를 건너뜁니다.")
             shared_store['email_summaries'] = {}
             return shared_store
-
         email_summaries_store = {}
         grouped_emails = shared_store['grouped_emails']
         num_contacts = len(grouped_emails)
-
         for i, (contact_email, emails) in enumerate(grouped_emails.items()):
             logging.info(f"연락처 {contact_email} ({i+1}/{num_contacts}) 처리 중...")
-            
             csv_file_path, individual_summaries_list = self.summarize_individual_emails(contact_email, emails)
-            
             overall_summary_text = ""
             if individual_summaries_list:
                 logging.info(f"DEBUG: process 메서드 - summarize_overall 호출 직전. 연락처: {contact_email}, 개별 요약 수: {len(individual_summaries_list)}")
                 overall_summary_text = self.summarize_overall(contact_email, individual_summaries_list)
                 logging.info(f"DEBUG: process 메서드 - summarize_overall 호출 완료. 결과 길이: {len(overall_summary_text) if overall_summary_text else 0}")
-                
-                # Sanitize contact_email for filename
                 sanitized_contact_email = re.sub(r'[^a-zA-Z0-9_\-\.]', '_', contact_email)
                 overall_summary_filename = f"{sanitized_contact_email}_overall_summary.md"
                 overall_summary_filepath = os.path.join(self.output_dir, overall_summary_filename)
-                
                 try:
                     with open(overall_summary_filepath, 'w', encoding='utf-8') as f:
                         f.write(f"# {contact_email} 종합 요약\n\n")
@@ -360,14 +308,12 @@ class SummarizeEmailsNode:
                     logging.error(f"'{overall_summary_filepath}'에 전체 요약을 저장하는 중 오류 발생: {e}")
             else:
                 logging.warning(f"'{contact_email}'에 대한 개별 요약이 없어 전체 요약을 생성하거나 저장하지 않습니다.")
-
             email_summaries_store[contact_email] = {
                 'individual_csv_path': csv_file_path,
                 'individual': individual_summaries_list,
                 'overall': overall_summary_text
             }
             logging.info(f"연락처 {contact_email} ({i+1}/{num_contacts}): 전체 요약 처리 완료.")
-
         shared_store['email_summaries'] = email_summaries_store
         logging.info("SummarizeEmailsNode 실행 완료.")
         return shared_store

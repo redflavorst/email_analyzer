@@ -69,7 +69,25 @@ def run_workflow():
     # 노드 초기화
     load_node = LoadEmailNode(db_path)
     clean_node = CleanAndGroupEmailsNode(db_path)
-    summarize_node = SummarizeEmailsNode()
+    # --- 요약 모델 선택 안내 및 입력 ---
+    print("\n[요약 모델 선택]")
+    print("1. qwen3.0 (Ollama, 무료/로컬)")
+    print("2. gpt4.1 mini (OpenAI, 유료/클라우드)")
+    model_choice = input("사용할 요약 모델을 선택하세요 (1 또는 2): ").strip()
+    if model_choice == "2":
+        openai_api_key = input("OpenAI API 키를 입력하세요: ").strip()
+        summarize_node = SummarizeEmailsNode(
+            model_provider="gpt4mini",
+            model_name="gpt-4.1-mini",
+            openai_api_key=openai_api_key
+        )
+        print("gpt-4.1 mini(OpenAI)로 요약을 진행합니다.")
+    else:
+        summarize_node = SummarizeEmailsNode(
+            model_provider="ollama",
+            model_name="qwen3:4b"
+        )
+        print("qwen3.0(Ollama)로 요약을 진행합니다.")
     report_node = ReportNode(output_path)
     
     print("워크플로우 실행 시작")
