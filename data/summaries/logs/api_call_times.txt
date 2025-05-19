@@ -58,6 +58,7 @@
 2025-05-08T00:18:19.615273 - PID: 34244 - LLM API call to 'qwen3:4b' duration: 64827.88 ms
 2025-05-08T00:18:21.367480 - PID: 22152 - LLM API call to 'qwen3:4b' duration: 42112.02 ms
 2025-05-08T00:22:16.416942 - PID: 15548 - LLM API call to 'qwen3:4b' duration: 234958.34 ms
+<<<<<<< HEAD
 2025-05-19T10:59:23.792950 - PID: 10952 - Ollama LLM API call to 'qwen3:4b' duration: 121337.24 ms
 2025-05-19T10:59:30.931966 - PID: 31424 - Ollama LLM API call to 'qwen3:4b' duration: 128466.98 ms
 2025-05-19T10:59:38.948326 - PID: 2208 - Ollama LLM API call to 'qwen3:4b' duration: 136466.97 ms
@@ -90,3 +91,5 @@
 2025-05-19T11:11:01.540806 - PID: 26208 - Ollama LLM API call to 'qwen3:4b' duration: 144944.57 ms
 2025-05-19T11:11:02.798709 - PID: 22080 - Ollama LLM API call to 'qwen3:4b' duration: 84033.30 ms
 2025-05-19T11:11:06.256976 - PID: 27628 - Ollama LLM API call to 'qwen3:4b' duration: 46135.97 ms
+=======
+>>>>>>> 4517ff7eb17d4e04168e7a40d48df5dd675da644

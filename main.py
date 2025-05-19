@@ -69,6 +69,7 @@ def run_workflow():
     # 노드 초기화
     load_node = LoadEmailNode(db_path)
     clean_node = CleanAndGroupEmailsNode(db_path)
+<<<<<<< HEAD
     # --- 요약 모델 선택 안내 및 입력 ---
     print("\n[요약 모델 선택]")
     print("1. qwen3.0 (Ollama, 무료/로컬)")
@@ -88,6 +89,9 @@ def run_workflow():
             model_name="qwen3:4b"
         )
         print("qwen3.0(Ollama)로 요약을 진행합니다.")
+=======
+    summarize_node = SummarizeEmailsNode()
+>>>>>>> 4517ff7eb17d4e04168e7a40d48df5dd675da644
     report_node = ReportNode(output_path)
     
     print("워크플로우 실행 시작")
