@@ -1,0 +1,21 @@
+{
+  "contact": "kim@company.com",
+  "relationship_summary": "kim@company.com와 주요 업무 관련 대화가 오갔음.",
+  "activities": [
+    {
+      "topic": "납기 일정 협의",
+      "summary": "납기 일정 관련 문의가 반복됨.",
+      "ref_emails": [
+        "email_001",
+        "email_003"
+      ]
+    },
+    {
+      "topic": "계약 진행",
+      "summary": "계약 관련 논의가 있었음.",
+      "ref_emails": [
+        "email_002"
+      ]
+    }
+  ]
+}

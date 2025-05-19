@@ -1,0 +1,26 @@
+[
+  {
+    "id": "email_001",
+    "date": "2023-04-01",
+    "subject": "납기 일정 문의",
+    "body": "4월 납기 일정 문의 및 확인 요청",
+    "contact": "kim@company.com",
+    "summary": "4월 납기 일정 문...요약"
+  },
+  {
+    "id": "email_002",
+    "date": "2023-04-05",
+    "subject": "계약서 첨부",
+    "body": "계약서 첨부 및 서명 요청",
+    "contact": "kim@company.com",
+    "summary": "계약서 첨부 및 서...요약"
+  },
+  {
+    "id": "email_003",
+    "date": "2023-04-07",
+    "subject": "납기 일정 재확인",
+    "body": "납기 일정 재확인 요청",
+    "contact": "kim@company.com",
+    "summary": "납기 일정 재확인 ...요약"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "contact": "lee@other.com",
+  "relationship_summary": "lee@other.com와 주요 업무 관련 대화가 오갔음.",
+  "activities": [
+    {
+      "topic": "기타",
+      "summary": "기타 문의가 있었음.",
+      "ref_emails": [
+        "email_004"
+      ]
+    }
+  ]
+}
